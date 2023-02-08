@@ -1,0 +1,49 @@
+6
+EMPLOYEE 1
+Carlota
+92346556
++34 2345436
+calle pepeeee
+234.554
+cleaning
+C
+EMPLOYEE 2
+Koke
+43096634609
++34 94235743
+calle artista
+123.234
+administration
+C
+EMPLOYEE 3
+Lucia
+498376709
++34 34786546
+calle pepita de chocolate
+34.45
+other
+C
+EMPLOYEE 4
+Ludwig
+94786543
++34 98475654
+calle museum
+123.234
+security
+C
+EMPLOYEE 5
+Beth
+983475324
++34 98423543
+calle pitimoni
+123.32
+customer service
+C
+EMPLOYEE 6
+Eduardo
+38473566
++34 458709567
+calle mexico lindo
+1232
+administration
+C

@@ -1,0 +1,120 @@
+STORE 1
+Nike
+2758663875
+East Coast
+3
+Pepe
+738465AAAAAA
++34 637864563
+calle peque
+12.234
+manager
+S
+Lucas
+8273463BBBB
++34 3978452
+calle lombana iglesias
+123.234
+staff
+S
+Chema
+842765KKKKKK
++34 4439857
+calle perez llorca
+123.234
+staff
+S
+5
+AirForce1
+128736
+123.23
+Jordan1 Lakers
+179832
+189
+AirMax120
+1223123
+156.34
+CamisetaNBA
+666
+50
+Leather_Jacket
+121212
+124.54
+STORE 2
+Adidas
+657834655
+South Park
+1
+Chemita
+23874623AAAAA
++12127324123
+calle matasvanfals
+1221.23
+manager
+S
+2
+Cazadora
+8347653
+100
+RealMadrid shirt
+7894563
+123.23
+STORE 3
+SneakersTuff
+389457950346
+Upper site 
+2
+Laura
+237654243
++23 32454543
+calle princesa
+223.23
+staff
+S
+Ricardo
+8435674
++32 2345234
+calle monasterio grandioso
+21213.2
+manager
+S
+1
+AirForce098
+34567
+1298
+STORE 4
+Gucci
+948375092
+North side
+3
+Luisito
+432985734SSA
++34 049385345
+calle memes
+122.23
+manager
+S
+Maria
+934857KKKK
++34 7645765
+calle lusodsds
+123.23
+staff
+S
+Keka
+0954733HJHASA
++34 094578345
+calle pato lucas
+235.34
+staff
+S
+3
+Bolso Premium Italiano
+304985
+1232.99
+Corbata Gucci
+32095434
+444.23
+Hat
+1111
+1293
